@@ -1,8 +1,7 @@
 # Course Project
 
 - Name: Sam Silver
-- ID: 201901788
-- Email: x2019aqh@stfx.ca
+- Email: sam55silver@gmail.com
 - Course: COMP 444 Machine Learning
 
 ## Motivation
